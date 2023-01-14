@@ -1,7 +1,7 @@
 ---
 
 solver:
-  mechanical: spectral_basic
+  mechanical: spectral_polarization
 
 loadstep:
   - boundary_conditions:
